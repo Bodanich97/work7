@@ -1,0 +1,122 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, "Times New Roman", "Bitstream Charter", Times, serif;
+
+    position: relative;
+}
+
+b, strong
+{
+    font-weight: bold !important;
+}
+
+
+
+
+#event-description-wrapper
+{
+    padding: 15px;
+    margin: 30px 15px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 18px;
+}
+
+#event-description-header-wrapper
+{
+
+    background: white;
+    transform: translateY(-100%);
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 15px;
+}
+
+
+#slider_{
+	width: 800px;
+	padding: 10px 50px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#event-description-header-wrapper h2
+{
+    font-size: 2em;
+}
+
+
+
+#form_back{
+	width: 100%;
+}
+
+#text{
+	width: 98%;
+   border: 1px solid black;
+   border-radius: 5px;
+}
+
+
+
+
+#but_ot
+{
+    border-style: none;
+    border-radius: 5px;
+    background: orange;
+    padding: 15px;
+    transform: translateY(20%);
+    cursor: pointer;
+}
+
+
+
+
+#footer
+{
+    display: block;
+    padding: 15px;
+    background: black;
+    color: white;
+}
+
+
+.center
+{
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
+input {
+   border: 1px solid black;
+   border-radius: 5px;
+}
+
+
+
+
+.button1 {
+    background: -moz-linear-gradient(#00BBD6, #EBFFFF);
+    background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    padding: 3px 7px;
+    color: #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #666;
+   }
+   
+img{
+	height: 650px;
+	width: 1600px;
+}
+   
